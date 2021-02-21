@@ -1,3 +1,11 @@
+# Simple Todo App
+
+[리액트 챌린지](https://github.com/goohooh/React-Challenge) 스터디에서
+
+React - Typescript를 공부할 목적으로 만든 간단한 Todo 앱입니다.
+
+참고: https://ts.chibicode.com/todo/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
